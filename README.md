@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Compartilhe todos os seus links úteis em uma landing page simples e eficiente.</h3>
+  <h5>Compartilhe todos os seus links úteis em uma landing page simples e eficiente.</h5>
 </div>
 
 
