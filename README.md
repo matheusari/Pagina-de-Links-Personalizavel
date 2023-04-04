@@ -9,5 +9,5 @@ O projeto foi desenvolvido em HTML e CSS, o que o torna fácil de entender e per
 O código-fonte está aberto e facilmente personalizável, permitindo que você adapte a landing page às suas necessidades específicas. 
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/114448911/229918979-039b9f82-f643-4284-ba6b-f39ee47bb1c7.png">
+   <img src="https://user-images.githubusercontent.com/114448911/229923782-dfab97c7-7409-4b5e-8967-dd763beacef9.png">
 </div>
