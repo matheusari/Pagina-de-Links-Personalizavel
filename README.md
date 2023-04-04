@@ -1,6 +1,5 @@
 <div align="center">
   <h2>Interface de Link Único - Estilo Linktree 🦅</h2>
-  <h4>Compartilhe todos os seus links úteis em uma landing page simples e eficiente.</h4>
 </div>
 
 <div align="center">
