@@ -8,9 +8,11 @@
 
 ------
 
-Esta landing page é uma opção simples e elegante para reunir todos os seus links úteis em um só lugar. Com apenas um clique, seus seguidores podem ter acesso a todas as suas redes sociais e outras informações importantes. 
+Esta é uma landing page simples e elegante que permite reunir todos os seus links úteis em um só lugar. Com apenas um clique, seus seguidores podem ter acesso a todas as suas redes sociais e outras informações importantes.
 
-Desenvolvido em HTML e CSS, este projeto é fácil de entender e personalizar. Basta copiar o código e adicionar seus próprios links e informações. Você pode hospedar a página em seu servidor web ou utilizar um serviço de hospedagem estática, como o GitHub Pages. Com um código aberto e facilmente personalizável, esta landing page pode ser adaptada para atender às suas necessidades específicas. Então, por que esperar? Comece a compartilhar todos os seus links em um só lugar agora mesmo!
+O projeto foi desenvolvido em HTML e CSS, o que o torna fácil de entender e personalizar. Para utilizá-lo, basta copiar o código e adicionar seus próprios links e informações. Você pode hospedar a página em seu servidor web ou utilizar um serviço de hospedagem estática, como o GitHub Pages.
+
+O código-fonte está aberto e facilmente personalizável, permitindo que você adapte a landing page às suas necessidades específicas. 
 
 ------
 
