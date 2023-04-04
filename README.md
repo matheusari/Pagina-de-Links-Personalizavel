@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Página de *links* personalizável no estilo Linktree 🪄 </h2>
+  <h2>Página de _links_ personalizável no estilo Linktree 🪄 </h2>
 </div>
 
 <div align="center">
