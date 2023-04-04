@@ -13,9 +13,3 @@ Esta é uma landing page simples e elegante que permite reunir todos os seus lin
 O projeto foi desenvolvido em HTML e CSS, o que o torna fácil de entender e personalizar. Para utilizá-lo, basta copiar o código e adicionar seus próprios links e informações. Você pode hospedar a página em seu servidor web ou utilizar um serviço de hospedagem estática, como o GitHub Pages.
 
 O código-fonte está aberto e facilmente personalizável, permitindo que você adapte a landing page às suas necessidades específicas. 
-
-------
-
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/114448911/229894388-fb5caec5-6c36-4505-8bec-0b59895660dd.gif">
-</div>
