@@ -6,6 +6,7 @@
    <img src="https://user-images.githubusercontent.com/114448911/229894388-fb5caec5-6c36-4505-8bec-0b59895660dd.gif">
 </div>
 
+------
 
 Esta landing page é uma opção simples e elegante para reunir todos os seus links úteis em um só lugar. Com apenas um clique, seus seguidores podem ter acesso a todas as suas redes sociais e outras informações importantes. 
 
