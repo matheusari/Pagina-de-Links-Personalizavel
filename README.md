@@ -1,11 +1,7 @@
 <div align="center">
   <h1>Interface de Link Único - Estilo Linktree 🦅</h1>
+  <h4>Compartilhe todos os seus links úteis em uma landing page simples e eficiente.</h4>
 </div>
-
-<div align="center">
-  <h5>Compartilhe todos os seus links úteis em uma landing page simples e eficiente.</h5>
-</div>
-
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/114448911/229899213-8bbd93a8-3a01-4647-ad93-9ba21804ae0a.png">
