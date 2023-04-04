@@ -11,3 +11,7 @@ O código-fonte está aberto e facilmente personalizável, permitindo que você 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/114448911/229925488-cf66dc80-c77c-4e5b-a568-5b3098c052f4.png">
 </div>
+
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/114448911/229928247-b2b83c4c-a193-45ad-b377-c7f4b76ac6d3.png">
+</div>
